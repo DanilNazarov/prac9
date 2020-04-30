@@ -1,0 +1,9 @@
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\bin\Debug\PRAC2.exe.config
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\bin\Debug\PRAC2.exe
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\bin\Debug\PRAC2.pdb
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.csprojAssemblyReference.cache
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.Nazarov.resources
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.Properties.Resources.resources
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.csproj.GenerateResource.cache
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.exe
+C:\Users\DANIL\source\repos\PRAC2\PRAC2\obj\Debug\PRAC2.pdb
